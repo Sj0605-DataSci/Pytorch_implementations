@@ -12,3 +12,13 @@ PyTorch (>=1.8.0)
 
 References
 Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., ... & Polosukhin, I. (2017). Attention is all you need. In Advances in neural information processing systems (pp. 5998-6008).
+
+
+### LoRA Implementation from Scratch
+This repository contains an implementation of LoRA for practice
+
+Dependencies
+To run this code, you will need:
+
+Python (>=3.6)
+PyTorch (>=1.8.0)
