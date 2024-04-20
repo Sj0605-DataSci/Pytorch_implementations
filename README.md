@@ -22,3 +22,12 @@ To run this code, you will need:
 
 Python (>=3.6)
 PyTorch (>=1.8.0)
+
+### Unconditional Diffuser - Image Generation from Hf course
+This repository contains an implementation of an unconditional stable diffuser for butterfly generation
+
+Dependencies
+To run this code, you will need:
+
+Python (>=3.6)
+PyTorch (>=1.8.0), diffusers, pyarrow and etc mentioned in ipynb file
